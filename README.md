@@ -1,2 +1,5 @@
-# InlighnX_Internship
-This is the work I have done during my first internship that is InlighnX t
+# InlighnX Tech Internship
+
+*This repository contains the work I completed during my first internship at InlighnX Tech.*
+
+I have uploaded my initial classification algorithms implementation, along with the dataset used to develop these algorithms.
